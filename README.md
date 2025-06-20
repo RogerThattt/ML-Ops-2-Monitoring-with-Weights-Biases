@@ -1,5 +1,7 @@
 # ML-Ops-2-Monitoring-with-Weights-Biases
 
+<html>
+
 +------------------------+       +------------------------+
 |  Network Devices / OSS| ----> | Streaming / Batch Data |
 | (Routers, RAN, etc.)  |       |  Ingestion (Kafka/S3)  |
@@ -23,3 +25,4 @@
                                 | Real-time Inference    |
                                 |   (SageMaker, Vertex)  |
                                 +------------------------+
+</html>
